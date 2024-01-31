@@ -1,0 +1,150 @@
+.amber {
+  background-color: #f59e0b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+.blue {
+  background-color: #0b69ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+.orange {
+  background-color: #f97316;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+.emerald {
+  background-color: #10b981;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+.teal {
+  background-color: #14b8a6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+.red {
+  background-color: #b91c1c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+/* Write your CSS here */
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 25%;
+}
+
+.letter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.likeImgContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
+
+.likeImage {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.likeImgText {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #7e858e;
+}
+
+.delete-button {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
+
+.deleteImage {
+  height: 30px;
+  width: 30px;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #1e293b;
+}
+
+.date {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #94a3b8;
+}
+
+.comment {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #64748b;
+  margin-left: 50px;
+}
+.separator {
+  color: #dee0e3;
+  width: 100%;
+}
